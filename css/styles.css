@@ -22,3 +22,11 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+
+.notChecked {
+  color: red;
+}
+
+.checked {
+  color: green;
+}
